@@ -1,0 +1,21 @@
+{
+  "name": "node_vue_socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^2.0.4",
+    "npm": "^11.0.0",
+    "redis": "^4.7.0",
+    "socket.io": "^4.8.1"
+  }
+}
